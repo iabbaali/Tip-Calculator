@@ -2,6 +2,7 @@
 
 **Tip Calculator** is a basic tip calculator application for iOS.
 
+---
 ## Functionalities
 * [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
